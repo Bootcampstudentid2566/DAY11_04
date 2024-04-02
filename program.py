@@ -1,3 +1,7 @@
-xcvxvcxcvxcvxcv test
+f = open("infoData.txt","r")
+f = f.read()
 
-print('Hello')
+
+zxc = 'Charmnong'
+print('zxc')
+print(f)
